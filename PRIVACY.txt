@@ -1,0 +1,13 @@
+Privacy Policy
+
+Kick Downloader does not collect, transmit, or store personal user data.
+
+The application operates locally on the user's device and does not upload files or browsing information to external servers.
+
+Downloaded media is stored only in locations selected by the user.
+
+Third-party services such as Kick.com may apply their own privacy policies and terms of use.
+
+By using this application, you acknowledge responsibility for complying with applicable laws and platform policies.
+
+© 2026 Kick Downloader

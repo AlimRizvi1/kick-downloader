@@ -1,0 +1,21 @@
+# Python
+__pycache__/
+*.pyc
+.venv/
+
+# Build/Dist
+build/
+dist/
+*.spec
+
+# System/Misc
+.DS_Store
+*.json
+Downloads/
+
+# Installer
+installer/
+installer.iss
+
+# ffmpeg
+ffmpeg/
